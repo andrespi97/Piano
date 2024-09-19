@@ -29,14 +29,8 @@ npm install xxx
 - Sonará como un piano de verdad
 - Se podrá tocar también con el teclado del ordenador
 
--[] mostrar web con las teclas blancas
--[] permitir que el usuario pulse en teclas y suena
--[] añadir teclas negras
--[] permitir que el usuario toque el piano con el teclado del ordenador
--[] incorporar sonidos reales
--[] refactorizar
--[] testear
--[] deployear
+-[x] mostrar web con las teclas blancas -[x] permitir que el usuario pulse en teclas y suena -[x] añadir teclas negras -[x] permitir que el usuario toque el piano con el teclado del ordenador
+-[] incorporar sonidos reales -[x] refactorizar -[x] testear -[x] deployear
 
 - codigo limpio <-- refactorizacion
 - codigo correcto <-- test
